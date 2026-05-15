@@ -81,6 +81,7 @@ pip install -r requirements.txt
 ```
 
 # Raw Image Data
+Due to data privacy requirements, we are preparing the test data and will make it available as soon as we can.
 Available on Google Drive:
 - [MPM Whole Slide Image (WSI)](https://drive.google.com/drive/folders/1kc0nXIN9KC_rORhHLTc-CDa-lEl9ZE3r?usp=drive_link)
 - [MPM Regions of Interest (ROI)](https://drive.google.com/drive/folders/12ExaGtcZnqdCu4em_CbXG8bxUwGlRPZ_?usp=drive_link)
